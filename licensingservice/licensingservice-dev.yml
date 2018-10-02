@@ -1,5 +1,5 @@
 spring.jpa.database: "POSTGRESQL"
-spring.boot.admin.client.url: "http://localhost:8080"
+spring.boot.admin.client.url: "http://localhost:9000"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "false"
 spring.database.driverClassName: "org.postgresql.Driver"

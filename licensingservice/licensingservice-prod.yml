@@ -1,5 +1,5 @@
 example.property: "I AM A PROD PROPERTY OVERRIDE"
-spring.boot.admin.client.url: "http://localhost:8080"
+spring.boot.admin.client.url: "http://localhost:9000"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
