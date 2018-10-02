@@ -1,5 +1,5 @@
 example.property: "I AM IN THE DEFAULT - changed for refresh testing"
-spring.boot.admin.client.url: "http://localhost:8081"
+spring.boot.admin.client.url: "http://localhost:8080"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
