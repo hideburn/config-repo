@@ -18,3 +18,5 @@ eureka.client.eureka-server-port: "8761"
 
 spring.jpa.properties.hibernate.temp.use_jdbc_metadata_defaults: "false"
 spring.jpa.database-platform: "org.hibernate.dialect.PostgreSQL9Dialect"
+
+# TODO: extend config with hystrix
